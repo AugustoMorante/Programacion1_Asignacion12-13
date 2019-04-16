@@ -25,7 +25,6 @@ int main()
 		return 0;
 	}
 	raiz = sqrt(dis);
-	cout << raiz;
 	r1 = (-b + raiz) / (2 * a);
 	r2 = (-b - raiz) / (2 * a);
 	formula = (a*(x*x)) + (b*x) + c;
